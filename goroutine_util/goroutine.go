@@ -1,4 +1,4 @@
-package goroutine
+package goroutine_util
 
 import "sync"
 

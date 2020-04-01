@@ -1,4 +1,4 @@
-package string
+package string_util
 
 import (
 	"runtime"

@@ -1,4 +1,4 @@
-package int
+package int_util
 
 import (
 	"fmt"

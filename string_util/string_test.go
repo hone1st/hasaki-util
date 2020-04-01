@@ -1,4 +1,4 @@
-package string
+package string_util
 
 import (
 	"fmt"
@@ -16,7 +16,6 @@ func TestReplace(t *testing.T) {
 	var s string = "十大看到大家安静到付afadadadasdka单靠打卡"
 	fmt.Println(Replace(s, "哈哈", "afada", "单靠打卡", "打卡"))
 }
-
 
 func TestSystemSplit(t *testing.T) {
 	var s1 string = "C:\\Users\\admin\\Desktop\\longyou\\application"
